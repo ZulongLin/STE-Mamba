@@ -1,4 +1,4 @@
-### This repository contains the code presented in the work “STE-Mamba: Automated Multimodal Depression Detection through Emotional Analysis and Spatio-Temporal Information Ensemble” by Zulong Lin, Yaowei Wang, Yujue Zhou, Fei Du, and Yun Yang. (ICASSPC2025)
+### This repository contains the code presented in the work “STE-Mamba: Automated Multimodal Depression Detection through Emotional Analysis and Spatio-Temporal Information Ensemble” by Zulong Lin, Yaowei Wang, Yujue Zhou, Fei Du, and Yun Yang. (ICASSP2025)
 
 #### You can run the code as follows: 
 1. Install all the packages you need in the requirements.txt.
